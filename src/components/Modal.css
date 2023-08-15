@@ -1,0 +1,17 @@
+.MovieModal {
+    display: flex;
+  }
+  
+  .MovieModal-image {
+    flex: 0 0 auto;
+    margin-right: 20px;
+  }
+  
+  .MovieModal-image img {
+    max-width: 100%;
+  }
+  
+  .MovieModal-details {
+    flex: 1 1 auto;
+  }
+  
